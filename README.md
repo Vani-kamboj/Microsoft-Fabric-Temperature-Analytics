@@ -44,4 +44,4 @@ Data Activator monitors temperature readings and automatically
 sends email alerts to the team when temperature crosses the threshold.
 
 ## Files
-- `architecture.png` — End-to-end pipeline architecture diagram
+- `fabric_workflow.png` — End-to-end pipeline architecture diagram
