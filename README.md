@@ -16,7 +16,7 @@ multiple layers, and delivers live dashboards with automated alerting.
 - Power BI
 
 ## Architecture
-![Pipeline Architecture](architecture.png)
+![Pipeline Architecture](Temperature_MS_Fabric.png)
 
 ## How it works
 
@@ -44,4 +44,4 @@ Data Activator monitors temperature readings and automatically
 sends email alerts to the team when temperature crosses the threshold.
 
 ## Files
-- `fabric_workflow.png` — End-to-end pipeline architecture diagram
+- `Temperature_MS_Fabric.png` — End-to-end pipeline architecture diagram
